@@ -1,5 +1,8 @@
 Daily Learning
 
+Project developed at Digital Innovation One's GFT Start #3 Java with the instruction of specialist [Venilton FalvoJr](https://www.linkedin.com/in/falvojr/ "Venilton FalvoJr").
+Learning to explore Design Patterns in Practice with Java.
+
 # Exploring Design Patterns in Practice with Java
 
 Repository with implementations of design patterns explored in the Lab "Exploring Design Patterns in Practice with Java". Specifically, this project explored some patterns using pure Java:
